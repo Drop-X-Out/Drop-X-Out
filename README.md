@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zayn</h1>
 <h3 align="center">Founder of Drop X Out</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="clock" width="400">
+<img align="right" src="https://i.gifer.com/7If9.mp4" alt="clock" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drop-x-out&label=Profile%20views&color=0e75b6&style=flat" alt="drop-x-out" /> </p>
 
