@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.tenor.com/DIBZH5Yaz00AAAAM/tick-tock-clock.gif" alt="clock" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drop-x-out&label=Profile%20views&color=0e75b6&style=flat" alt="drop-x-out" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/123237107/228645126-458ea2f6-cb81-4995-a2b9-7a311fa6b500.png" alt="drop-x-out" /> </p>
 
 - 🌱 I’m currently making this platform **for learners .**
 
