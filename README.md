@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zayn</h1>
 <h3 align="center">Founder of Drop X Out</h3>
 
-<img align="right" src="https://media.tenor.com/DIBZH5Yaz00AAAAM/tick-tock-clock.gif" alt="clock" width="300" height="300">
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="clock" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drop-x-out&label=Profile%20views&color=0e75b6&style=flat" alt="drop-x-out" /> </p>
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **wakeup.dxo@gmail.com**
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dropxout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dropxout" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dropxout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dropxout" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drop-x-out&show_icons=true&locale=en" alt="drop-x-out" /></p>
 
