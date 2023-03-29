@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zayn</h1>
+<h3 align="center">Founder of Drop X Out</h3>
 
-<!--
-**Drop-X-Out/Drop-X-Out** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.tenor.com/DIBZH5Yaz00AAAAM/tick-tock-clock.gif" alt="clock" width="400">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drop-x-out&label=Profile%20views&color=0e75b6&style=flat" alt="drop-x-out" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently making this platform **for learners .**
+
+- 📝 I write articles on [https://medium.com/@drop-x-out](https://medium.com/@drop-x-out)
+
+- 📫 How to reach me **wakeup.dxo@gmail.com**
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dropxout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dropxout" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drop-x-out&show_icons=true&locale=en" alt="drop-x-out" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drop-x-out&" alt="drop-x-out" /></p>
