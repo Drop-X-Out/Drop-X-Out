@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently making this platform **for learners .**
 
-- 📝 I write articles on [https://medium.com/@drop-x-out](https://medium.com/@drop-x-out)
+- 📝 Join Our WhatsApp Community [Drop X Out](https://chat.whatsapp.com/LKLcau365GYBgEFEkuAoTk)
 
 - 📫 How to reach me **wakeup.dxo@gmail.com**
 
