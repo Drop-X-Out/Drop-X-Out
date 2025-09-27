@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently making this platform **for learners .**
 
-- 📝 Join Our WhatsApp Community [Drop X Out](https://chat.whatsapp.com/LKLcau365GYBgEFEkuAoTk)
-
 - 📫 How to reach me **wakeup.dxo@gmail.com**
 
 <h3 align="left">Support:</h3>
